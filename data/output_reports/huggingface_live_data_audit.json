@@ -1,0 +1,166 @@
+[
+  {
+    "dataset_source": "ESGBERT/environment_data",
+    "ground_truth_pillar": "ENVIRONMENTAL",
+    "sentence": "Over the course of the year, your partnership with The Wilderness Society, and your generous support, enabled us to secure significant conservation victories.",
+    "dominant_pillar": "ENVIRONMENTAL",
+    "active_pillars": [
+      "ENVIRONMENTAL"
+    ],
+    "confidence_score": 99.21,
+    "environmental_score": 99.21,
+    "social_score": 40.71,
+    "governance_score": 0.31,
+    "sub_topics": [
+      "[E] Biodiversity & Nature"
+    ],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": true
+  },
+  {
+    "dataset_source": "ESGBERT/environment_data",
+    "ground_truth_pillar": "ENVIRONMENTAL",
+    "sentence": "Working with community and Indigenous-led coalitions, we focused on undoing the damage of the Trump years and pursuing public lands solutions to climate change, species extinction and expanding equitable access to nature.",
+    "dominant_pillar": "ENVIRONMENTAL",
+    "active_pillars": [
+      "ENVIRONMENTAL"
+    ],
+    "confidence_score": 99.72,
+    "environmental_score": 99.72,
+    "social_score": 21.16,
+    "governance_score": 1.41,
+    "sub_topics": [
+      "[E] Biodiversity & Nature"
+    ],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": true
+  },
+  {
+    "dataset_source": "ESGBERT/environment_data",
+    "ground_truth_pillar": "ENVIRONMENTAL",
+    "sentence": "And together we made a more inclusive conservation movement a reality.",
+    "dominant_pillar": "SOCIAL",
+    "active_pillars": [
+      "ENVIRONMENTAL",
+      "SOCIAL"
+    ],
+    "confidence_score": 99.97,
+    "environmental_score": 98.64,
+    "social_score": 99.97,
+    "governance_score": 0.25,
+    "sub_topics": [
+      "[E] Biodiversity & Nature"
+    ],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": true
+  },
+  {
+    "dataset_source": "ESGBERT/social_data",
+    "ground_truth_pillar": "SOCIAL",
+    "sentence": "Over the course of the year, your partnership with The Wilderness Society, and your generous support, enabled us to secure significant conservation victories.",
+    "dominant_pillar": "ENVIRONMENTAL",
+    "active_pillars": [
+      "ENVIRONMENTAL"
+    ],
+    "confidence_score": 99.21,
+    "environmental_score": 99.21,
+    "social_score": 40.71,
+    "governance_score": 0.31,
+    "sub_topics": [
+      "[E] Biodiversity & Nature"
+    ],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": false
+  },
+  {
+    "dataset_source": "ESGBERT/social_data",
+    "ground_truth_pillar": "SOCIAL",
+    "sentence": "Working with community and Indigenous-led coalitions, we focused on undoing the damage of the Trump years and pursuing public lands solutions to climate change, species extinction and expanding equitable access to nature.",
+    "dominant_pillar": "ENVIRONMENTAL",
+    "active_pillars": [
+      "ENVIRONMENTAL"
+    ],
+    "confidence_score": 99.72,
+    "environmental_score": 99.72,
+    "social_score": 21.16,
+    "governance_score": 1.41,
+    "sub_topics": [
+      "[E] Biodiversity & Nature"
+    ],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": false
+  },
+  {
+    "dataset_source": "ESGBERT/social_data",
+    "ground_truth_pillar": "SOCIAL",
+    "sentence": "These victories demonstrate the impact of combining The Wilderness Society\u2019s expertise and strength with efforts led by the people who have the most at stake.",
+    "dominant_pillar": "SOCIAL",
+    "active_pillars": [
+      "SOCIAL"
+    ],
+    "confidence_score": 99.53,
+    "environmental_score": 5.59,
+    "social_score": 99.53,
+    "governance_score": 0.71,
+    "sub_topics": [],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": true
+  },
+  {
+    "dataset_source": "ESGBERT/governance_data",
+    "ground_truth_pillar": "GOVERNANCE",
+    "sentence": "It was an honor to stand with the Tribes and see President Biden restore the Bears Ears National Monument to its original boundaries, and deeply gratifying to have a hand in gaining protection for threatened lands surrounding Chaco Culture National Historical Park.",
+    "dominant_pillar": "ENVIRONMENTAL",
+    "active_pillars": [
+      "ENVIRONMENTAL"
+    ],
+    "confidence_score": 51.17,
+    "environmental_score": 51.17,
+    "social_score": 0.02,
+    "governance_score": 0.49,
+    "sub_topics": [],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": false
+  },
+  {
+    "dataset_source": "ESGBERT/governance_data",
+    "ground_truth_pillar": "GOVERNANCE",
+    "sentence": "These victories demonstrate the impact of combining The Wilderness Society\u2019s expertise and strength with efforts led by the people who have the most at stake.",
+    "dominant_pillar": "SOCIAL",
+    "active_pillars": [
+      "SOCIAL"
+    ],
+    "confidence_score": 99.53,
+    "environmental_score": 5.59,
+    "social_score": 99.53,
+    "governance_score": 0.71,
+    "sub_topics": [],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": false
+  },
+  {
+    "dataset_source": "ESGBERT/governance_data",
+    "ground_truth_pillar": "GOVERNANCE",
+    "sentence": "We seek the guidance of Native American and Indigenous peoples to effectively advocate for the protection of culturally significant lands and the preservation of language and culture.",
+    "dominant_pillar": "NON-ESG",
+    "active_pillars": [],
+    "confidence_score": 25.41,
+    "environmental_score": 2.01,
+    "social_score": 25.41,
+    "governance_score": 0.49,
+    "sub_topics": [
+      "[S] Community & Social Impact"
+    ],
+    "action_orientation": "Boilerplate / General Disclosure",
+    "has_metrics": false,
+    "aligned": false
+  }
+]
